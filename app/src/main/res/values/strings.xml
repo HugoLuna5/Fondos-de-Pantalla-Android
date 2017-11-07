@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fondos de Pantalla</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nav_drawer_recently_added">Elección del Editor</string>
+    <string name="toast_saved">Imagen guardada en #</string>
+    <string name="toast_saved_failed">¡Lo sentimos! Error al guardar la imagen</string>
+    <string name="toast_wallpaper_set">Fondo de pantalla actualizado!</string>
+    <string name="toast_wallpaper_set_failed">¡Lo siento! No se puede establecer fondo de pantalla</string>
+    <string name="splash_error">No se pueden descargar los fondos de pantalla. Verificar su nombre de usuario google en el ajuste o dispositivo no tiene conexión a Internet!</string>
+    <string name="set_wallpaper">Establecer</string>
+    <string name="download_wallpaper">Descargar</string>
+    <string name="msg_unknown_error">¡Lo sentimos! Se produjo un error desconocido.</string>
+    <string name="msg_wall_fetch_error">¡Lo sentimos! No es posible obtener fondos de pantalla. Verificar la configuración de la aplicación o dispositivo no tiene conexión a Internet.</string>
+    <string name="toast_enter_google_username">Por favor, introduzca nombre de usuario Google</string>
+    <string name="toast_enter_valid_grid_columns">Por favor, introduzca un número válido de columnas</string>
+    <string name="toast_enter_gallery_name">Por favor, introduzca el nombre del directorio para la galería</string>
+    <string name="lbl_google_username">Nombre de usuario de Google</string>
+    <string name="lbl_no_grid_columns">Número de columnas de la cuadrícula</string>
+    <string name="lbl_gallery_name">Nombre del directorio de la galeria</string>
+    <string name="lbl_btn_save">Guardar</string>
+
+</resources>
